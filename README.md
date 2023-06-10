@@ -1,6 +1,6 @@
 # MNIST-Digits-Interactive
 
-Simple canvas to draw on and see your model predictions.
+Simple canvas to draw on and see your model predictions. Model trained using pytorch library.
 
 <p align="center">
   <img src="https://github.com/ChaitanyaKatti/MNIST-Digits-Interactive/assets/96473570/98d69078-ab7b-4a6c-8e1c-433f822c57d1" alt="demo" class="centered-image">
