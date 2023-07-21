@@ -12,12 +12,13 @@ Simple canvas to draw on and see your model predictions. Model trained using pyt
 ```
 git clone https://github.com/ChaitanyaKatti/MNIST-Digits-Interactive.git
 cd MNIST-Digits-Interactive
+pip install -r requirements.txt
 python main.py
 ```
-# Requirements
-```
-torch
-torchvision
-numpy
-pygame
-```
+# Dataset
+Download the datatset used for this project. 
+Add these files to `/data`
+
+MNIST Digits : `http://yann.lecun.com/exdb/mnist/`
+
+Extended MNIST : `https://www.kaggle.com/datasets/crawford/emnist`
