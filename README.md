@@ -7,3 +7,17 @@ Simple canvas to draw on and see your model predictions. Model trained using pyt
 </p>
 
 **Warning**: Code written for 1920x1080 resolution, make changes if display is meesed up.
+
+# How to use
+```
+git clone https://github.com/ChaitanyaKatti/MNIST-Digits-Interactive.git
+cd MNIST-Digits-Interactive
+python main.py
+```
+# Requirements
+```
+torch
+torchvision
+numpy
+pygame
+```
