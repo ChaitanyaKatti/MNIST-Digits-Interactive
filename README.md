@@ -1,4 +1,4 @@
-# MNIST-Digits-Interactive
+# MNIST-Characters-Interactive
 
 Simple canvas to draw on and see your model predictions. Model trained using pytorch library.
 
